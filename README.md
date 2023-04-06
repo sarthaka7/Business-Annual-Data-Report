@@ -1,4 +1,4 @@
-# Business-Annual-Data-Report
+
 # Business Annual Report 2022 using Excel 
 So our Business wanted to create an annual sales report for 2022. So that they can understand their customers & grow more sales in 2023.
 # The Problem questions being - 
@@ -30,6 +30,8 @@ So our Business wanted to create an annual sales report for 2022. So that they c
 5. Amazon, Flipkart & Myntra channels are max contributing(~80%)
 
 # Visual Representation of the report -
+![image](https://user-images.githubusercontent.com/130046611/230343065-1498f9df-c08c-4506-aa99-16c26db8b489.png)
+
 
 
 # Final conclusion to improve the business sales is -
